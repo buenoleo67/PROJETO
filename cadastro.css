@@ -1,0 +1,25 @@
+div{
+    margin: 20;
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+}
+input{
+    margin-left: 0.3cm;
+}
+input#tel{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 0.9cm;
+}
+select{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1.6cm;
+}
+textarea{
+    margin: center;
+}
+input#cadastrar{
+    margin-left :3cm;
+}
+img{
+    height: 6cm;
+}
